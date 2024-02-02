@@ -7,8 +7,8 @@ redirect_from:
   - /updates
 ---
 
-{% assign everything = site.publications | concat: site.talks %}
-{% assign sorted = everything | sort: "date"%}
+{% assign everything = site.publications | concat: site.talks%}
+{% assign sorted = everything | sort: "date" | reverse %}
 
 <ul>{% for post in sorted %}
   <b>{{post.date | date: "%m.%d.%y"}}</b>: 
