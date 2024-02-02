@@ -26,3 +26,5 @@ News
     I gave a talk at {{post.venue}} called "{{post.title}}" <br><br>
   {% endif %}
 {% endfor %}</ul>
+
+[See more](katherine-atwell.github.io/news)
