@@ -28,15 +28,6 @@ Work experience
 * **Summer 2017**: Research Intern
   * *Iowa State University*
   * Designed the UX for a new software for Traffic Incident Managers 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,4 +49,29 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Conferences and Publications:
+* ****ACL Rolling Review** Ethics Reviewer
+* **EMNLP** Reviewer 
+* **UAI** Reviewer 
+* **ACM FAccT** Program Committee 
+* **Journal of Educational Data Mining** Reviewer 
+* **Workshop on Computational Approaches to Discourse** Program Committee 
+* **INLG** Reviewer 
+* **SIGDIAL** Program Committee 
+* **ACL** Reviewer 
+* **AAAI** Reviewer 
+* **NAACL** Reviewer 
+
+University Service 
+* Review PhD applications
+* Note-taker for faculty interviews
+* Mentor undergraduate students
+
+
+Awards
+======
+* **2023** *Third place*, Alexa Prize TaskBot Challenge
+* **2022** *Best Paper*, Association for Uncertainty in Artificial Intelligence
+* **2022** *Travel Scholarship*, CRA-W Scholarship for Early Career Workshop and the Graduate Cohort 
+* **2020** *Travel Scholarship* Grace Hopper
+* **2016** *Meyerhoff Scholar* University of Maryland, Baltimore County
