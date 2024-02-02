@@ -7,6 +7,8 @@ redirect_from:
   - /updates
 ---
 
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+{% assign everything = site.publications | concat: site.talks %}
+
+<ul>{% for post in everything %}
+    {{post.date}}
   {% endfor %}</ul>
