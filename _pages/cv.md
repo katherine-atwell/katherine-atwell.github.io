@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://katherine-atwell.github.io/files/CV.pdf)
+
 Education
 ======
 * Ph.D, Computer Science, Northeastern University, 2026 (expected)
