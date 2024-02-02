@@ -13,9 +13,9 @@ redirect_from:
 <ul>{% for post in sorted %}
   <b>{{post.date | date: "%m.%d.%y"}}</b>: 
   {% if post.collection == "publications" %}
-    Our work, "{{post.title}}", was published at {{post.venueinformal}} <br>
+    Our work, "{{post.title}}", was published at {{post.venueinformal}} <br><br>
   {% endif %}
   {% if post.collection == "talks" %}
-    I gave a talk at {{post.venue}} called "{{post.title}}" <br>
+    I gave a talk at {{post.venue}} called "{{post.title}}" <br><br>
   {% endif %}
 {% endfor %}</ul>
