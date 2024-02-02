@@ -11,11 +11,11 @@ redirect_from:
 {% assign sorted = everything | sort: "date"%}
 
 <ul>{% for post in sorted %}
-    {{post.date | date: "%m.%d.%y"}}: 
+    <b>{{post.date | date: "%m.%d.%y"}}</b>: 
     {% if post.collection == "publications" %}
-      Our work, <b>{{post.title}}</b>, was published at {{post.venueinformal}} <br>
+      Our work, "{{post.title}}", was published at {{post.venueinformal}} <br>
     {% endif %}
     {% if post.collection == "talks" %}
-      I gave a talk at <b>{{post.venue}}</b> called "{{post.title}}" <br>
+      I gave a talk at {{post.venue}} called "{{post.title}}" <br>
     {% endif %}
   {% endfor %}</ul>
