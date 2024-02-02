@@ -10,5 +10,5 @@ redirect_from:
 {% assign everything = site.publications | concat: site.talks %}
 
 <ul>{% for post in everything %}
-    {{post.date}}
+    {{post.date | date: ‘%d/%m/%y’}}
   {% endfor %}</ul>
