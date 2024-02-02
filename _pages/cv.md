@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D, Computer Science, Northeastern University, 2026 (expected)
+* B.S., Computer Science, University of Maryland Baltimore County, 2020
+* B.S., Mathematics, University of Maryland Baltimore County, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Summer 2019**: Software Engineering Intern
+  * *Google Inc.*
+  * Developed a visualization tool for the Data Studio team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Summer 2018**: Engineering Practicum Intern
+  * *Google Inc.*
+  * Built an internal dashboarding tool for YouTube
+
+* **Summer 2017**: Research Intern
+  * *Iowa State University*
+  * Designed the UX for a new software for Traffic Incident Managers 
   
 Skills
 ======
