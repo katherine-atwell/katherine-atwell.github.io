@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Katherine Atwell / Personal Site"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Katherine Atwell"
 description              : &description "Fourth-year PhD student conducting NLP research at Northeastern University."
