@@ -11,7 +11,7 @@ redirect_from:
 {% assign sorted = everything | sort: "date"%}
 
 <ul>{% for post in sorted %}
-    {{post.date | date: "%%m.%d.%y"}}: 
+    {{post.date | date: "%m.%d.%y"}}: 
     {% if post.collection == "publications" %}
       Our work, <b>{{post.title}}</b>, was published at {{post.venueinformal}} <br>
     {% endif %}
