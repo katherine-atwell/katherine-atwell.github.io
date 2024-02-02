@@ -13,8 +13,8 @@ redirect_from:
 <ul>{% for post in sorted %}
     {{post.date | date: ‘%d/%m/%y’}}: 
     {% if post.collection == "publications" %}
-      Our work, [{{post.title}}]({{post.paperurl}}), was published at {{post.venue}}\
+      Our work, <b>[{{post.title}}]({{post.paperurl}})</b>, was published at {{post.venue}}\
     {% endif }
     {% if post.collection == "talks" %}:
-      I gave a talk at **{{post.venue}}** called "{{post.title}}"\
+      I gave a talk at <b>{{post.venue}}</b> called "{{post.title}}"\
   {% endfor %}</ul>
