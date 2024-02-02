@@ -17,7 +17,7 @@ News
 {% assign everything = site.publications | concat: site.talks%}
 {% assign sorted = everything | sort: "date" | reverse %}
 
-<ul>{% for post in sorted %}
+<ul>{% for post in sorted | slice: 0, 5 %}
   <b>{{post.date | date: "%m.%d.%y"}}</b>: 
   {% if post.collection == "publications" %}
     Our work, "{{post.title}}", was published at {{post.venueinformal}} <br><br>
