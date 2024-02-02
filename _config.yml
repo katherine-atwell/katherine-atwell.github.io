@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Katherine Atwell"
-  avatar           : "images/profile.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Boston, MA, US"
   employer         : "Northeastern University"
