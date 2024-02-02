@@ -1,5 +1,5 @@
 ---
-title: "RESPONSIBLE ARTIFICIAL INTELLIGENCE AND MARGINALIZED COMMUNITIES"
+title: "Responsible Artificial Intelligence and Marginalized Communities"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-02-08-responsible-ai
