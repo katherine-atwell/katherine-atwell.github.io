@@ -64,7 +64,7 @@ Conferences and Publications:
 * **AAAI** Reviewer 
 * **NAACL** Reviewer 
 
-University Service :
+University Service:
 * Review PhD applications
 * Note-taker for faculty interviews
 * Mentor undergraduate students

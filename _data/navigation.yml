@@ -13,7 +13,7 @@ main:
     url: /talks/       
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio/   
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
