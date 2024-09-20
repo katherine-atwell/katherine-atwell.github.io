@@ -52,6 +52,7 @@ Talks
 Service and leadership
 ======
 Conferences and Publications:
+* **CoNLL** Area Chair
 * ****ACL Rolling Review** Ethics Reviewer
 * **EMNLP** Reviewer 
 * **UAI** Reviewer 
