@@ -49,6 +49,7 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
    $background-color: #f3f3f3 !default;
+   $body-color: #f3f3f3 !default;
    $text-color: #343434 !default;
    $muted-text-color: #8e8b82 !default;
    $primary-color: #343434 !default;
@@ -58,7 +59,7 @@ $type-size-8                : 0.625em;  // ~10px
    $masthead-link-color: $text-color !default;
    $masthead-link-color-hover: $text-color !default;
    $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-   
+
 /* brands */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
