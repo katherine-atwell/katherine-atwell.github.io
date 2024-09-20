@@ -16,7 +16,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Katherine Atwell"
-description              : &description "Fourth-year PhD student conducting NLP research at Northeastern University."
+description              : &description "Fifth-year PhD student conducting NLP research at Northeastern University."
 url                      : https://katherine-atwell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katherine-atwell/katherine-atwell.github.io"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Katherine Atwell"
   avatar           : "profile.jpeg"
-  bio              : "Fourth-year Computer Science PhD student @ Northeastern University"
+  bio              : "Fifth-year Computer Science PhD student @ Northeastern University"
   location         : "Boston, MA, US"
   employer         : "Northeastern University"
   pubmed           : 
