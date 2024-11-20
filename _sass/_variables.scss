@@ -48,17 +48,17 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-   $background-color: #f3f3f3;
-   $body-color: #f3f3f3;
-   $text-color: #343434;
-   $muted-text-color: #8e8b82;
-   $primary-color: #343434;
-   $border-color: #e9dcbe;
-   $footer-background-color: #e9dcbe;
-   $link-color: #343434;
-   $masthead-link-color: $text-color;
-   $masthead-link-color-hover: $text-color;
-   $navicon-link-color-hover: mix(#fff, $text-color, 80%);
+   $background-color: #f3f3f3 !important;
+   $body-color: #f3f3f3 !important;
+   $text-color: #343434 !important;
+   $muted-text-color: #8e8b82 !important;
+   $primary-color: #343434 !important;
+   $border-color: #e9dcbe !important;
+   $footer-background-color: #e9dcbe !important;
+   $link-color: #343434 !important;
+   $masthead-link-color: $text-color !important;
+   $masthead-link-color-hover: $text-color !important;
+   $navicon-link-color-hover: mix(#fff, $text-color, 80%) !important;
 
 /* brands */
 $behance-color              : #1769FF;
