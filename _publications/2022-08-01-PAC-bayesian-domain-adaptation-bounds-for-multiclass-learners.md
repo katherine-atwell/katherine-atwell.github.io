@@ -7,5 +7,5 @@ venue: 'In the proceedings of Uncertainty in Artificial Intelligence'
 venueinformal: 'UAI 2022'
 citation: ' Anthony Sicilia,  Katherine Atwell,  Malihe Alikhani,  Seong Hwang, &quot;PAC-bayesian domain adaptation bounds for multiclass learners.&quot; In the proceedings of Uncertainty in Artificial Intelligence, 2022.'
 paperurl: https://proceedings.mlr.press/v180/sicilia22a/sicilia22a.pdf
+authors: 'Anthony Sicilia, Katherine Atwell, Malihe Alikhani, Seong Hwang'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=PAC+bayesian+domain+adaptation+bounds+for+multiclass+learners){:target="_blank"} for full citation

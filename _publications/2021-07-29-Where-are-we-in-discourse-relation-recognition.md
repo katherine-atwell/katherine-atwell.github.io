@@ -7,5 +7,5 @@ venue: 'In the proceedings of Proceedings of the 22nd Annual Meeting of the Spec
 venueinformal: 'SIGDIAL 2021'
 citation: ' Katherine Atwell,  Junyi Li,  Malihe Alikhani, &quot;Where are we in discourse relation recognition?.&quot; In the proceedings of Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue, 2021.'
 paperurl: 'http://katherine-atwell.github.io/files/Where are we in discourse relation recognition_.pdf'
+authors: 'Katherine Atwell, Junyi Jessy Li, and Malihe Alikhani'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Where+are+we+in+discourse+relation+recognition?){:target="_blank"} for full citation
