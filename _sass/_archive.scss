@@ -257,8 +257,8 @@
   }
   
   li:before {
-    font-family: "fontawesome" !important;
     content: "\f1ea"; /* FontAwesome Unicode */
+    font-family: "fontawesome" !important;
     display: inline-block;
     margin-left: calc( var(--icon-space) * -1 );
     width: var(--icon-space);
