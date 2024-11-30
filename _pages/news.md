@@ -11,7 +11,7 @@ redirect_from:
 {% assign sorted = everything | sort: "date" | reverse %}
 
 <ul>{% for post in sorted %}
-  <li><i class="fa fa-w newspaper-o"> </i> <b>{{post.date | date: "%m.%d.%y"}}</b>: 
+  <li><i class="fa fa-w fa-newspaper-o"> </i> <b>{{post.date | date: "%m.%d.%y"}}</b>: 
   {% if post.collection == "publications" %}
     Our work, "{{post.title}}", was published at {{post.venueinformal}} <br><br>
   {% endif %}
