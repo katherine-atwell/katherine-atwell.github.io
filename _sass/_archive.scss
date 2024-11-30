@@ -244,3 +244,21 @@
     }
   }
 }
+
+.news {
+  ul {
+    --icon-size: .8em;
+    --gutter: .5em;
+    padding: 0 0 0 var(--icon-size);
+  }
+  
+  ul li {
+    padding-left: var(--gutter);
+  }
+  
+  ul li::marker {
+    content: "\f00a"; /* FontAwesome Unicode */
+    font-family: FontAwesome;
+    font-size: var(--icon-size);
+  }
+}
