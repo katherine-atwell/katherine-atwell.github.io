@@ -11,6 +11,7 @@ redirect_from:
 {% assign sorted = everything | sort: "date" | reverse %}
 
 <div class="news">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <ul>{% for post in sorted %}
   <li><b>{{post.date | date: "%m.%d.%y"}}</b>: 
   {% if post.collection == "publications" %}
