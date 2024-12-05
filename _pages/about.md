@@ -12,7 +12,9 @@ redirect_from:
 
 Hello! I'm a fifth year PhD candidate in [Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), conducting research with [Malihe Alikhani](https://www.malihealikhani.com/). I am passionate about using NLP tools for good, and am currently studying bias in language through a sociolinguistic lens. I am also conducting research in the ethics space, and recently published a [book chapter](https://link.springer.com/chapter/10.1007/978-3-031-47362-3_3) on ethics in signed languages. I have published at venues including ACL, NAACL, EACL, SIGDIAL, COLING, and COGSCI, and won a [best paper award](https://www.sci.pitt.edu/news/sci-graduate-students-faculty-member-win-best-paper-award-uai-2022) for our [work](https://proceedings.mlr.press/v180/sicilia22a/sicilia22a.pdf) at UAI 2022. Last year, I was part of a university team that placed [third](https://www.amazon.science/alexa-prize/taskbot-challenge/2022) in the Amazon [Alexa Prize Taskbot Competition](https://www.amazon.science/alexa-prize/taskbot-challenge)!
 
+In my free time, I enjoy bouldering, playing the piano, singing (catch our concerts at [Cambridge Chamber Singers] (https://cambridgechambersingers.org/)!), working out, and spending time outdoors!
 
+Please email me at <b>atwell.ka at northeastern.edu<b> if you have any questions, or are interested in collaborating! 
 
 News
 ======
