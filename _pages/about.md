@@ -26,7 +26,7 @@ News
     Our work, "{{post.title}}", was published at {{post.venueinformal}} 
   {% endif %}
   {% if post.collection == "talks" %}
-    I gave a talk at {{post.venue}} called "{{post.title}}" <br><br>
+    I gave a talk at {{post.venue}} called "{{post.title}}"
   {% endif %}</li>
 {% endfor %}</ul>
 </div>
