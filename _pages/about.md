@@ -42,6 +42,4 @@ News
 Research Agenda
 ======
 
-<div class="news">
-    <img src="/images/venn-diagram.png" alt="image alt text" />
-</div>
+![Image]({{ site.baseurl }}/images/venn-diagram.png)
