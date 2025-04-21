@@ -38,3 +38,10 @@ News
 </div>
 
 [See more](https://katherine-atwell.github.io/news/)
+
+Research Agenda
+======
+
+{% block content %}
+    <img src="{{ static('images/venn-diagram.png') }}" alt="image alt text" />
+{% endblock %}
