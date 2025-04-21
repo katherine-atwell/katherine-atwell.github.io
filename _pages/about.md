@@ -18,7 +18,7 @@ Please email me at <b>atwell.ka at northeastern.edu</b> if you have any question
 News
 ======
 
-{% assign everything = site.publications | concat: site.talks concat: site.news%}
+{% assign everything = site.publications | concat: site.talks | concat: site.news%}
 {% assign sorted = everything | sort: "date" | reverse %}
 
 <div class="news">
