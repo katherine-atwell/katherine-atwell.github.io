@@ -18,7 +18,7 @@ redirect_from:
     {{post.description}} 
   {% endif %}
   {% if post.collection == "publications" %}
-    Our work, "{{post.title}}", was published at {{post.venueinformal}} <br><br>
+    Our work, "{{post.title}}", was published at <b>{{post.venueinformal}}</b> <br><br>
   {% endif %}
   {% if post.collection == "talks" %}
     I gave a talk at {{post.venue}} called "{{post.title}}" <br><br>

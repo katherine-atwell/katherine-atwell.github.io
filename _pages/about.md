@@ -29,10 +29,10 @@ News
     {{post.description}} 
   {% endif %}
   {% if post.collection == "publications" %}
-    Our work, "{{post.title}}", was published at {{post.venueinformal}} 
+    Our work, <i>{{post.title}}</i>, was published at {{post.venueinformal}} 
   {% endif %}
   {% if post.collection == "talks" %}
-    I gave a talk at {{post.venue}} called "{{post.title}}"
+    I gave a talk at <b>{{post.venue}}</b> called <i>{{post.title}}</i>
   {% endif %}</li>
 {% endfor %}</ul>
 </div>
