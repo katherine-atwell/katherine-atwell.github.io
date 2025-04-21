@@ -15,29 +15,6 @@ In my free time, I enjoy bouldering, playing the piano, singing (catch our conce
 
 Please email me at <b>atwell.ka at northeastern.edu</b> if you have any questions, or are interested in collaborating! 
 
-News
-======
-
-{% assign everything = site.publications | concat: site.talks | concat: site.news %}
-{% assign sorted = everything | sort: "date" | reverse %}
-
-<div class="news">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<ul>{% for post in sorted limit:5 %}
-  <li><b>{{post.date | date: "%m.%d.%y"}}</b>: 
-  {% if post.collection == "news" %}
-    {{post.description}} 
-  {% endif %}
-  {% if post.collection == "publications" %}
-    Our work, <i>{{post.title}}</i>, was published at <b>{{post.venueinformal}}</b>
-  {% endif %}
-  {% if post.collection == "talks" %}
-    I gave a talk at <b>{{post.venue}}</b> called <i>{{post.title}}</i>
-  {% endif %}</li>
-{% endfor %}</ul>
-</div>
-
-[See more](https://katherine-atwell.github.io/news/)
 
 Research Agenda
 ======
