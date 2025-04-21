@@ -24,8 +24,7 @@
   </div>
 {% endif %}
 
-News
-======
+<h3>News</h3>
 
 {% assign everything = site.publications | concat: site.talks | concat: site.news %}
 {% assign sorted = everything | sort: "date" | reverse %}
