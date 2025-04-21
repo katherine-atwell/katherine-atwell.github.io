@@ -16,6 +16,7 @@ redirect_from:
   <li><b>{{post.date | date: "%m.%d.%y"}}</b>: 
   {% if post.collection == "news" %}
     {{post.description}} 
+  {% endif %}
   {% if post.collection == "publications" %}
     Our work, "{{post.title}}", was published at {{post.venueinformal}} <br><br>
   {% endif %}
