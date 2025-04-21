@@ -18,13 +18,15 @@ Please email me at <b>atwell.ka at northeastern.edu</b> if you have any question
 News
 ======
 
-{% assign everything = site.publications | concat: site.talks%}
+{% assign everything = site.publications | concat: site.talks concat: site.news%}
 {% assign sorted = everything | sort: "date" | reverse %}
 
 <div class="news">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <ul>{% for post in sorted limit:5 %}
   <li><b>{{post.date | date: "%m.%d.%y"}}</b>: 
+  {% if post.collection == "news" %}
+    {{post.description}} 
   {% if post.collection == "publications" %}
     Our work, "{{post.title}}", was published at {{post.venueinformal}} 
   {% endif %}
@@ -34,4 +36,4 @@ News
 {% endfor %}</ul>
 </div>
 
-[See more](katherine-atwell.github.io/news)
+[See more](https://katherine-atwell.github.io/news/)
