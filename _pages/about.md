@@ -42,4 +42,4 @@ News
 Research Agenda
 ======
 
-![Image]({{ site.baseurl }}/images/venn-diagram.png)
+![Image](https://katherine-atwell.github.io/images/venn-diagram.png)
