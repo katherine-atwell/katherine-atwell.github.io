@@ -7,7 +7,7 @@ redirect_from:
   - /updates
 ---
 
-{% assign everything = site.publications | concat: site.talks | concat site.news %}
+{% assign everything = site.publications | concat: site.talks | concat: site.news %}
 {% assign sorted = everything | sort: "date" | reverse %}
 
 <div class="news">
