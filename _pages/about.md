@@ -43,5 +43,5 @@ Research Agenda
 ======
 
 <div class="news">
-    <img src="{{ static('/images/venn-diagram.png') }}" alt="image alt text" />
+    <img src="/images/venn-diagram.png" alt="image alt text" />
 </div>
