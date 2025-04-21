@@ -42,6 +42,6 @@ News
 Research Agenda
 ======
 
-{% block content %}
+<div class="news">
     <img src="{{ static('images/venn-diagram.png') }}" alt="image alt text" />
-{% endblock %}
+</div>
