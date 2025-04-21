@@ -29,7 +29,7 @@ News
     {{post.description}} 
   {% endif %}
   {% if post.collection == "publications" %}
-    Our work, <i>{{post.title}}</i>, was published at {{post.venueinformal}} 
+    Our work, <i>{{post.title}}</i>, was published at <b>{{post.venueinformal}}</b>
   {% endif %}
   {% if post.collection == "talks" %}
     I gave a talk at <b>{{post.venue}}</b> called <i>{{post.title}}</i>
