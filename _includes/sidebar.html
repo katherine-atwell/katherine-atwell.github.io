@@ -29,7 +29,7 @@
 {% assign everything = site.publications | concat: site.talks | concat: site.news %}
 {% assign sorted = everything | sort: "date" | reverse %}
 
-<div class="news">
+<!-- <div class="news">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <ul>{% for post in sorted limit:5 %}
   <li><b>{{post.date | date: "%m.%d.%y"}}</b>: 
@@ -43,6 +43,6 @@
     I gave a talk at <b>{{post.venue}}</b> called <i>{{post.title}}</i>
   {% endif %}</li>
 {% endfor %}</ul>
-</div>
+</div> -->
 
 [See more](https://katherine-atwell.github.io/news/)
