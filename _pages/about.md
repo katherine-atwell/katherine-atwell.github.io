@@ -19,6 +19,6 @@ Please email me at <b>atwell.ka at northeastern.edu</b> if you have any question
 Research Agenda
 ======
 
-I believe the field of natural language processing is fundamentally interdisciplinary, and my research reflects this. I develop computational frameworks for understanding linguistic and social phenomena, and apply these frameworks to develop fair and responsible AI systems. Therefore, most of my current or past projects fall into one or more of the following categories: <b>Discourse and Pragmatics</b>, <b>Computational Social Science</b>, and <b>Responsible and Accessible AI</b>. Here are some examples of current and past projects:
+I believe that NLP is fundamentally interdisciplinary, and my research reflects this. I develop computational frameworks for understanding linguistic and social phenomena, and apply these frameworks to develop fair and responsible AI systems. Therefore, most of my current or past projects fall into one or more of the following categories: <b>Discourse and Pragmatics</b>, <b>Computational Social Science</b>, and <b>Responsible and Accessible AI</b>. Here are some examples of current and past projects:
 
 ![Image](https://katherine-atwell.github.io/images/venn-diagram.png)
