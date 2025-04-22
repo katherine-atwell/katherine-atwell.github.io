@@ -13,9 +13,6 @@ Welcome! I am a fifth year PhD candidate in [Computer Science](https://www.khour
 
 In my free time, I enjoy bouldering, playing the piano, singing (catch our concerts at [Cambridge Chamber Singers](https://cambridgechambersingers.org/)!), working out, and spending time outdoors!
 
-Please email me at <b>atwell.ka at northeastern.edu</b> if you have any questions or are interested in collaborating! 
-
-
 Research Agenda
 ======
 
