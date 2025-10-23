@@ -21,6 +21,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $roboto                     : Roboto, "Helvetica Neue", Arial, sans-serif;
+$poppins                    : 'Poppins', sans-serif;
+$crimson-pro                : 'Crimson Pro', serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,8 +31,8 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $roboto;
-$header-font-family         : $helvetica;
+$global-font-family         : $crimson-pro;  //$roboto;
+$header-font-family         : $poppins; //$helvetica;
 $caption-font-family        : $serif;
 
 /* type scale */
