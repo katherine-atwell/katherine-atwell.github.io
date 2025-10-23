@@ -12,6 +12,10 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  padding: 25px;
+  background-color: #f3e7c2;
+  color: #243822;
+  border-right: 2px solid #d2d8c7;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -22,9 +26,6 @@
     &:hover {
       opacity: 1;
     }
-    background-color: #f3e7c2;
-    color: #243822;
-    border-right: 2px solid #d2d8c7;
   }
 
 
