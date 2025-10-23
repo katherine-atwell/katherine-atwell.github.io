@@ -15,7 +15,7 @@ In my free time, I enjoy bouldering, playing the piano, singing (catch our conce
 
 **I'm currently on the job market**, so please feel free to reach out if you know of any opportunities that may be a good fit!
 
-Research Agenda
+<span class="page__title"> Research Agenda </span>
 ======
 
 I believe that NLP is fundamentally interdisciplinary, and my research reflects this. I develop computational frameworks for understanding linguistic and social phenomena, and apply these frameworks to develop fair and responsible AI systems. Therefore, most of my current or past projects fall into one or more of the following categories: <b>Discourse and Pragmatics</b>, <b>Computational Social Science</b>, and <b>Responsible and Accessible AI</b>. Here are some examples of current and past projects:
