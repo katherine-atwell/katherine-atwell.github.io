@@ -52,21 +52,6 @@
 .page__content {
 
     /* Major section headers */
-  h1, h2, h3 {
-    font-family: 'Merriweather', serif; /* professional serif */
-    font-weight: 700;
-    color: #2b3a34; /* deep green-gray */
-    letter-spacing: 0.5px;
-    margin-top: 2em;
-    border-bottom: 2px solid #d2d8c7; /* light sage underline */
-    padding-bottom: 0.3em;
-  }
-
-  /* Optional: slightly larger top header for “About” */
-  h1 {
-    font-size: 2.1rem;
-    color: #243822;
-  }
 
   h2 {
     padding-bottom: 0.5em;
