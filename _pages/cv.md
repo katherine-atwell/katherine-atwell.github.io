@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://katherine-atwell.github.io/files/CV.pdf)
+[Download CV](http://katherine-atwell.github.io/files/Katherine-Atwell-FlowCV-Resume-20251023.pdf)
 
 Education
 ======
