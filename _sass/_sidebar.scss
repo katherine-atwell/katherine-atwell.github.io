@@ -12,10 +12,12 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  padding: 25px;
+  //padding: 25px;
   background-color: #faf6ee;
   color: #243822;
   border-right: 2px solid #d2d8c7;
+  padding: 30px 25px 30px 25px; /* top, right, bottom, left */
+  box-sizing: border-box;
 
   @include breakpoint($large) {
     @include span(2 of 12);
