@@ -57,7 +57,7 @@
 }
 
 .sidebar__right {
-  @include span(3 of 12 last);
+  //@include span(3 of 12 last);
   margin-bottom: 1em;
   padding: 50px;
   @include breakpoint($large) {
