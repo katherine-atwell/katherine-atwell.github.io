@@ -21,7 +21,7 @@
 }
 
 /* Expand container at very large breakpoints */
-@include breakpoint($x-x-large) {
+@include breakpoint($x-large) {
   #main,
   .page,
   .page__inner-wrap,
