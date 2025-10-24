@@ -1,0 +1,36 @@
+// Quick override to center page content and let it expand on large screens.
+// Drop this partial into _sass/ and import it from your main stylesheet
+// (e.g. add `@import "page-overrides";` at the end of _sass/main.scss).
+
+// NOTE: uses !important to override the theme's grid mixins (span/prefix/suffix).
+// Remove !important later if you refactor the grid rules.
+
+#main,
+.page,
+.page__inner-wrap,
+.page__content {
+  /* cancel grid floats/widths applied by the span mixins */
+  float: none !important;
+  width: auto !important;
+  max-width: 1100px; /* adjust to taste */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
+/* Expand container at very large breakpoints */
+@include breakpoint($x-large) {
+  #main,
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    max-width: 1400px; /* or set to none to use full width */
+  }
+}
+
+/* Center the page title */
+.page__title {
+  text-align: center;
+}
