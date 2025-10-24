@@ -13,8 +13,8 @@
   background-color: $background-color;
   @include span(9 of 12); // last
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  @include breakpoint($x-x-large) {
+    max-width: $x-x-large;
   }
 }
 
@@ -137,8 +137,8 @@
       padding-left: 1em;
       padding-right: 1em;
 
-      @include breakpoint($x-large) {
-        max-width: $x-large;
+      @include breakpoint($x-x-large) {
+        max-width: $x-x-large;
       }
     }
 

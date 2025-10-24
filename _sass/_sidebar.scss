@@ -32,7 +32,7 @@
   }
 
 
-  @include breakpoint($x-large) {
+  @include breakpoint($x-x-large) {
     //padding-right: 0;
   }
 
@@ -68,7 +68,7 @@
     z-index: 10;
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($x-x-large) {
     width: $right-sidebar-width;
   }
 }

@@ -17,8 +17,8 @@
     padding: 1em 1em 1em;
     font-family: $header-font-family; //$sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
+    @include breakpoint($x-x-large) {
+      max-width: $x-x-large;
     }
 
     nav {

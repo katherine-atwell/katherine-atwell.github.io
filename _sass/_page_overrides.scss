@@ -21,12 +21,12 @@
 }
 
 /* Expand container at very large breakpoints */
-@include breakpoint($x-large) {
+@include breakpoint($x-x-large) {
   #main,
   .page,
   .page__inner-wrap,
   .page__content {
-    max-width: 1400px; /* or set to none to use full width */
+    max-width: 1800px; /* or set to none to use full width */
   }
 }
 
