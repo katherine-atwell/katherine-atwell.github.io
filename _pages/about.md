@@ -20,4 +20,4 @@ In my free time, I enjoy bouldering, playing the piano, singing (catch our conce
 
 I believe that NLP is fundamentally interdisciplinary, and my research reflects this. I develop computational frameworks for understanding linguistic and social phenomena, and apply these frameworks to develop fair and responsible AI systems. Therefore, most of my current or past projects fall into one or more of the following categories: <b>Discourse and Pragmatics</b>, <b>Computational Social Science</b>, and <b>Responsible and Accessible AI</b>. Here are some examples of current and past projects:
 
-![Image](https://katherine-atwell.github.io/images/venn-diagram.png)
+![Image](https://katherine-atwell.github.io/images/projects/sycophancy-fig.png){: style="float: left"} **Evaluating the impacts of sycophancy in LLMs using insights from behavioral economics**
