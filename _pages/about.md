@@ -23,5 +23,5 @@ I believe that NLP is fundamentally interdisciplinary, and my research reflects 
 ## Evaluating the impacts of sycophancy in LLMs using insights from behavioral economics
 
 ![Image](https://katherine-atwell.github.io/images/projects/sycophancy-fig.png){: style="float: left; margin-right: 1em;" width="200px"} Drawing from insights in behavioral economics and rational decision theory, we are exploring how to model the ways in which AI systems navigate uncertainty when introduced to new information. This information may include the user's opinion or involvement in a particular scenario, both of which have been shown to induce sycophancy (excessively flattering or ingratiating behavior) in LLMs. In this project, we study how sycophancy can impact LLMs' beliefs and uncertainty estimations given new information, and the extent to which LLMs are Bayesian-rational when sycophancy is induced. <br>
-<button name="button" onclick="https://arxiv.org/abs/2508.16846">ArXiv Preprint</button>
+<button name="button" class="button--inverse" onclick="https://arxiv.org/abs/2508.16846">ArXiv Preprint</button>
 <!-- [ArXiv Preprint](https://arxiv.org/abs/2508.16846) -->
