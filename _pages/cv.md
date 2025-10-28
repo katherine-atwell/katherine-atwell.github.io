@@ -11,14 +11,12 @@ redirect_from:
 
 <button name="button" class="btn" onclick="http://katherine-atwell.github.io/files/Katherine-Atwell-FlowCV-Resume-20251023.pdf">Download CV</button>
 
-Education
-======
+## Education
 * Ph.D, Computer Science, Northeastern University, 2026 (expected)
 * B.S., Computer Science, University of Maryland Baltimore County, 2020
 * B.S., Mathematics, University of Maryland Baltimore County, 2020
 
-Work experience
-======
+## Work experience
 * **Summer 2019**: Software Engineering Intern
   * *Google Inc.*
   * Developed a visualization tool for the Data Studio team
@@ -31,14 +29,12 @@ Work experience
   * *Iowa State University*
   * Designed the UX for a new software for Traffic Incident Managers 
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -49,9 +45,8 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-Conferences and Publications:
+## Service and leadership
+### Conferences and Publications
 * **CoNLL** Area Chair
 * ****ACL Rolling Review** Ethics Reviewer
 * **EMNLP** Reviewer 
@@ -65,14 +60,13 @@ Conferences and Publications:
 * **AAAI** Reviewer 
 * **NAACL** Reviewer 
 
-University Service:
+### University Service
 * Review PhD applications
 * Note-taker for faculty interviews
 * Mentor undergraduate students
 
 
-Awards
-======
+## Awards
 * **2023** *Third place*, Alexa Prize TaskBot Challenge
 * **2022** *Best Paper*, Association for Uncertainty in Artificial Intelligence
 * **2022** *Travel Scholarship*, CRA-W Scholarship for Early Career Workshop and the Graduate Cohort 
