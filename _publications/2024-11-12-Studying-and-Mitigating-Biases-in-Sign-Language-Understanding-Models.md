@@ -1,7 +1,7 @@
 ---
 title: "Studying and Mitigating Biases in Sign Language Understanding Models"
 collection: publications
-permalink: /publication/2024-11-12-Studying-and-Mitigating-Biases-in-Sign-Language-Understanding-Models.md
+permalink: /publication/2024-11-12-Studying-and-Mitigating-Biases-in-Sign-Language-Understanding-Models
 date: 2024-11-12
 venue: 'In the Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing'
 venueinformal: 'EMNLP 2024'
