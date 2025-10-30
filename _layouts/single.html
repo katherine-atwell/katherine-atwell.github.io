@@ -42,15 +42,15 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        {% if post.citation %}
-          <p>Recommended citation: {{ post.citation }}</p>
+        {% if page.citation %}
+          <p>Recommended citation: {{ page.citation }}</p>
         {% endif %}
-        {% if post.paperurl %}
-          <button name="button" class="btn" onclick="window.location.href='{{ post.paperurl }}'">**Download Here**</button>
-          <!-- <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p> -->
+        {% if page.paperurl %}
+          <button name="button" class="btn" onclick="window.location.href='{{ page.paperurl }}'">**Download Here**</button>
+          <!-- <p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p> -->
         {% endif %}
-        {% if post.abstract %}
-        <p>{{ post.abstract | markdownify }}</p>
+        {% if page.abstract %}
+        <p>{{ page.abstract | markdownify }}</p>
         {% endif %}
     
         </header>
