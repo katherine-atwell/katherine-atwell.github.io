@@ -43,10 +43,15 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+        {% if post.citation %}
+          <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+        {% endif %}
+        {% if post.paperurl %}
+          <button name="button" class="btn" onclick="window.location.href='{{ post.paperurl }}'">**Download Here**</button>
+          <!-- <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p> -->
+        {% endif %}
+        {% if post.abstract %}
+        <p>{{ post.abstract | markdownify }}</p>
         {% endif %}
     
         </header>
