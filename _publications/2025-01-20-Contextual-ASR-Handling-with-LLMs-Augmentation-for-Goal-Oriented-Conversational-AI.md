@@ -1,7 +1,7 @@
 ---
 title: "Measuring Bias and Agreement in Large Language Model Presupposition Judgments"
 collection: publications
-permalink: /publication/2025-07-27-Measuring-Bias-and-Agreement-in-Large-Language-Model-Presupposition-Judgments
+permalink: /publication/2025-01-20-Contextual-ASR-Handling-with-LLMs-Augmentation-for-Goal-Oriented-Conversational-AI
 date: 2025-07-27
 venue: 'In the Proceedings of the 31st International Conference on Computational Linguistics: Industry Track'
 venueinformal: 'COLING Industry Track 2025'
