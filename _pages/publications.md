@@ -13,4 +13,6 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single-pub-summary.html %}
+  {% if post.abstract %}
+    {{post.abstract}}
 {% endfor %}
