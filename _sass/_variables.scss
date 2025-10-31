@@ -50,26 +50,26 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-   $background-color: #f3f7df; //#f4f6ec
-   $body-color: #f3f7df; //#f4f6ec
+   $background-color: #FAF3E7; //#f3f7df; //#f4f6ec
+   $body-color: #FAF3E7; //#f4f6ec
    $text-color: #243822; // #343434;
    $muted-text-color: #8e8b82;
    $primary-color: #343434;
    $border-color: #e9dcbe;
    $footer-background-color: #e9dcbe;
-   $link-color: #d9863f; //#343434;
-   $masthead-color: #273627;
+   $link-color: #E88B68; //#d9863f; //#343434;
+   $masthead-color: #406B74; //#273627;
    $masthead-link-color: #f7f2e9;
-   $masthead-link-color-hover: #d9863f; //#f7f2e9;
-   $navicon-link-color-hover: #d9863f; //mix(#f7f2e9, $text-color, 20%);
+   $masthead-link-color-hover: #E88B68; //#d9863f; //#f7f2e9;
+   $navicon-link-color-hover: #E88B68; // #d9863f; //mix(#f7f2e9, $text-color, 20%);
    $warning-color: #215201;
    $code-background-color: #060f00;
    $lighter-gray: #f9faf5;
    $light-gray: #9fa19d;
    $gray: #616362;
    $danger-color: #632c13;
-   $info-color: #608045;
-   $success-color: #698c4c;
+   $info-color: #E88B68; //#608045;
+   $success-color: #E88B68; //#698c4c;
    $footer-color: #fff;
    $footer-text: $light-gray;
 
