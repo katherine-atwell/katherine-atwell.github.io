@@ -26,7 +26,7 @@ I believe that NLP is fundamentally interdisciplinary, and my research reflects 
 <button name="button" class="btn" onclick="https://arxiv.org/abs/2508.16846">**ArXiv Preprint**</button>
 <!-- [ArXiv Preprint](https://arxiv.org/abs/2508.16846) -->
 
-## Recent Publications
+<span class="page__title"> Recent Publications <\span>
 
 {% for post in site.publications limit:8%}
   {% include archive-single-pub-summary.html %}
