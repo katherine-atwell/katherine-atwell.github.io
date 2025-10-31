@@ -28,6 +28,7 @@ I believe that NLP is fundamentally interdisciplinary, and my research reflects 
 
 # Recent Publications
 
-{% for post in site.publications reversed limit:8%}
+{% assign reversed_pubs = site.publications | reverse %}
+{% for post in reversed_pubs limit:8 %}
   {% include archive-single-pub-summary.html %}
 {% endfor %}
