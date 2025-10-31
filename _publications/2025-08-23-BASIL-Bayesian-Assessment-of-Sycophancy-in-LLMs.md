@@ -3,8 +3,8 @@ title: "BASIL: Bayesian Assessment of Sycophancy in LLMs"
 collection: publications
 permalink: /publication/2025-08-23-BASIL-Bayesian-Assessment-of-Sycophancy-in-LLMs
 date: 2025-08-23
-venue: 'Under Review'
-venueinformal: 'Under Review'
+venue: 'ArXiv'
+venueinformal: 'ArXiv'
 citation: 'Katherine Atwell, Pedram Heydari, Anthony Sicilia, and Malihe Alikhani. 2025. BASIL: Bayesian Assessment of Sycophancy in LLMs. https://arxiv.org/abs/2508.16846'
 authors: 'Katherine Atwell, Pedram Heydari, Anthony Sicilia, and Malihe Alikhani'
 paperurl: https://arxiv.org/abs/2508.16846
