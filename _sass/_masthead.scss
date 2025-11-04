@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  //border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -29,9 +29,13 @@
       text-decoration: none;
     }
   }
+  backdrop-filter: blur(10px) saturate(150%);
+  -webkit-backdrop-filter: blur(10px) saturate(150%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
   background-color: $masthead-color;
   color: #fff;
-  backdrop-filter: blur(20px);
+  //backdrop-filter: blur(20px);
   opacity: 0.6;
   //background: rgba(255, 255, 255, 0.1);
 }
