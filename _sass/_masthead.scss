@@ -29,15 +29,13 @@
       text-decoration: none;
     }
   }
-  backdrop-filter: blur(10px) saturate(150%);
-  -webkit-backdrop-filter: blur(10px) saturate(150%);
-  border-bottom: 3px solid rgba(255, 255, 255, 0.3);
-  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
-  // background-color: linear-gradient(
-  //   to bottom,
-  //   #2E5A5EAA, /* teal with transparency */
-  //   rgba(255, 255, 255, 0.2)  /* beige with transparency */
-  // );
+  backdrop-filter: blur(12px) saturate(160%);
+  -webkit-backdrop-filter: blur(12px) saturate(160%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    inset 0 1px 6px rgba(255, 255, 255, 0.3),
+    inset 0 -4px 10px rgba(0, 0, 0, 0.25),
+    0 4px 10px rgba(0, 0, 0, 0.15);
   background-color: $masthead-color;
   color: #fff;
   //backdrop-filter: blur(20px);
