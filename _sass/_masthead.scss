@@ -64,4 +64,10 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &.active a,
+  &[aria-current="page"] a {
+    color: $masthead-link-color-hover; // highlight color for active page
+    border-bottom: 2px solid $masthead-link-color-hover; // optional visual cue
+  }
 }
