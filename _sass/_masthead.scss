@@ -59,15 +59,14 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: $type-size-3;
+  font-size: $type-size-4;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
   }
 
-  &.active a,
-  &[aria-current="page"] a {
+  &.active a {
     color: $masthead-link-color-hover; // highlight color for active page
     border-bottom: 2px solid $masthead-link-color-hover; // optional visual cue
   }
