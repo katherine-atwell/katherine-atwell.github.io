@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<button name="button" class="btn" onclick="http://katherine-atwell.github.io/files/CV-updated.pdf">Download CV</button>
+<button name="button" class="btn" onclick="window.location.href='http://katherine-atwell.github.io/files/CV-updated.pdf'">Download CV</button>
 
 ## Education
 * Ph.D, Computer Science, Northeastern University, 2026 (expected)
