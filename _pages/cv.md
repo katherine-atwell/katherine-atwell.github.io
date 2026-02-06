@@ -11,6 +11,9 @@ redirect_from:
 
 <button name="button" class="btn" onclick="window.location.href='http://katherine-atwell.github.io/files/CV-updated.pdf'">Download CV</button>
 
+<iframe src="http://katherine-atwell.github.io/files/CV-updated.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+
 ## Education
 * Ph.D, Computer Science, Northeastern University, 2026 (expected)
 * B.S., Computer Science, University of Maryland Baltimore County, 2020
