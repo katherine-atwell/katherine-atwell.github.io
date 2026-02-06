@@ -35,7 +35,8 @@ h1, h2, h3 {
     color: #2b3a34; /* deep green-gray */
     letter-spacing: 0.5px;
     margin-top: 2em;
-    border-bottom: 2px solid #d2d8c7; /* light sage underline */
+    border-bottom: linear-gradient(to right, #8890d2, transparent);
+    // border-bottom: 2px solid #d2d8c7; /* light sage underline */
     padding-bottom: 0.3em;
   }
 
