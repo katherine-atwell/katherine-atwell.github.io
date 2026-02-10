@@ -22,7 +22,7 @@
           {% if post.image contains "://" %}
             "{{ post.image }}"
           {% else %}
-            "{{ post.image | prepend: "/images/" | prepend: base_path }}"
+            "{{ post.image | prepend: "/images/publications/" | prepend: base_path }}"
           {% endif %}
           alt=""
           style="width: 100%; height: auto; border-radius: 4px;">
