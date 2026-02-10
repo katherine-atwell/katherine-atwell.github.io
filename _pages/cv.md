@@ -11,7 +11,7 @@ redirect_from:
 
 <button name="button" class="btn" onclick="window.location.href='http://katherine-atwell.github.io/files/CV-updated.pdf'">Download CV</button>
 
-<iframe src="files/CV-updated.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<!-- <iframe src="files/CV-updated.pdf" width="100%" height="600px" style="border: none;"></iframe> -->
 
 
 ## Education
