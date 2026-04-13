@@ -92,15 +92,14 @@
     display: block;
     width: auto;
     height: auto;
-    text-align: center;
   }
 
   img {
-    max-width: 400px;
+    max-width: 370px;
     border-radius: 0%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 20px;
       border: 1px solid $border-color;
     }
   }
