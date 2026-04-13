@@ -51,6 +51,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    justify-content: space-between;
   }
   //background-color: $masthead-color;
   color: #fff
