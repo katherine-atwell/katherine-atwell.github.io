@@ -81,6 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
+  
   width: 40px;
   // set width only, for non-square avatars
   height: 40px;
@@ -91,6 +92,7 @@
     display: block;
     width: auto;
     height: auto;
+    text-align: center;
   }
 
   img {
