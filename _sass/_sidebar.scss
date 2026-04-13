@@ -244,6 +244,10 @@
     font-size: $type-size-5;
     text-decoration: none;
 
+    i {
+      font-size: 2em;
+    }
+
     &:hover {
       text-decoration: underline;
     }
